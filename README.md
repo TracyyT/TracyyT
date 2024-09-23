@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, WELCOME TO TRACY'S WORLD!
+#### Design and Development
+![Design and Development](https://www.figma.com/design/BlwRsRspBLnI2CodbXUNyJ/README-Github-Banner-(Community)?node-id=0-1&m=dev&t=J2p2beZor3BGMwjt-1)
 
-<!--
-**TracyyT/TracyyT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do fun projects related to Game Design and Coding. Besides coding, I enjoy wireframing and UI/UX in general!
 
-Here are some ideas to get you started:
+Skills: PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development and Natural Language Processes. 
+- 👯 I’m looking to collaborate on Developing and Designing webpages. 
+- 📫 How to reach me: thu08626@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TracyyT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anhthutracytran/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyyT)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
