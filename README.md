@@ -1,7 +1,7 @@
 ### Hi there 👋, WELCOME TO TRACY'S WORLD!
 #### Design and Development
 
-![Make your README (3)](https://github.com/user-attachments/assets/233175f5-85cf-4087-b0f7-27ee5de38f28)
+![Make your README (5)](https://github.com/user-attachments/assets/ce016af7-72ae-494e-9649-66d9ec792268)
 
 I do fun projects related to Game Design and Coding. Besides coding, I enjoy wireframing and UI/UX in general!
 
