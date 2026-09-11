@@ -10,7 +10,3 @@ Skills: PYTHON / JS / HTML / CSS
 - 🔭 I’m currently working on Web Development and Natural Language Processes. 
 - 👯 I’m looking to collaborate on Developing and Designing webpages. 
 - 📫 How to reach me: thu08626@gmail.com 
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyyT&layout=compact)
