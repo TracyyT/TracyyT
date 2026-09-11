@@ -11,4 +11,6 @@ Skills: PYTHON / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Developing and Designing webpages. 
 - 📫 How to reach me: thu08626@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyyT)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyyT&layout=compact)
