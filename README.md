@@ -5,8 +5,7 @@
 
 I do fun projects related to Game Design and Coding. Besides coding, I enjoy wireframing and UI/UX in general!
 
-Skills: PYTHON / JS / HTML / CSS
+Skills: PYTHON / C++ / Java / JS / HTML / CSS
 
-- 🔭 I’m currently working on Web Development and Natural Language Processes. 
-- 👯 I’m looking to collaborate on Developing and Designing webpages. 
-- 📫 How to reach me: thu08626@gmail.com 
+- 🔭 I’m currently working on Web Development and Natural Language Processing. 
+- 📫 How to reach me: athutran86@gmail.com 
