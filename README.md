@@ -1,11 +1,17 @@
 ### Hi there 👋, WELCOME TO TRACY'S WORLD!
-#### Design and Development
 
-![Make your README (5)](https://github.com/user-attachments/assets/ce016af7-72ae-494e-9649-66d9ec792268)
+<p align="center">
+  <img src="github-banner.png" alt="Tracy GitHub Banner" width="100%" />
+</p>
 
-I do fun projects related to Game Design and Coding. Besides coding, I enjoy wireframing and UI/UX in general!
+I'm a Computer Science student at **Texas A&M University** with a minor in **Mathematics**, interested in software engineering, full-stack development, and AI.
 
-Skills: PYTHON / C++ / Java / JS / HTML / CSS
+I enjoy building practical applications from idea to implementation, with a focus on creating intuitive user experiences and solving real-world problems through software.
 
-- 🔭 I’m currently working on Web Development and Natural Language Processing. 
-- 📫 How to reach me: athutran86@gmail.com 
+- 💻 Currently building full-stack and AI applications
+- 🤖 Programmer with Texas A&M WIRED VEX U Robotics
+- 🎯 Seeking Software Engineering internship opportunities
+
+**Tech:** Python • C++ • Java • JavaScript • TypeScript • Rust • React • Git • Linux
+
+📫 [Portfolio](YOUR_PORTFOLIO) • [LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/tracythu)) • [Email](mailto:athutran86@gmail.com)
