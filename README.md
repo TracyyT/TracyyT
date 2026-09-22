@@ -14,4 +14,4 @@ I enjoy building practical applications from idea to implementation, with a focu
 
 **Tech:** Python • C++ • Java • JavaScript • TypeScript • Rust • React • Git • Linux
 
-📫 [Portfolio](YOUR_PORTFOLIO) • [LinkedIn](https://www.linkedin.com/in/tracythu) • [Email](mailto:athutran86@gmail.com)
+📫 [Portfolio](https://tracyyt.github.io/personal-website/) • [LinkedIn](https://www.linkedin.com/in/tracythu) • [Email](mailto:athutran86@gmail.com)
