@@ -1,4 +1,4 @@
-### Hi there 👋, WELCOME TO TRACY'S WORLD!
+### WELCOME TO TRACY'S WORLD!🌏
 
 <p align="center">
   <img src="github-banner.png" alt="Tracy GitHub Banner" width="100%" />
@@ -14,4 +14,4 @@ I enjoy building practical applications from idea to implementation, with a focu
 
 **Tech:** Python • C++ • Java • JavaScript • TypeScript • Rust • React • Git • Linux
 
-📫 [Portfolio](YOUR_PORTFOLIO) • [LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/tracythu)) • [Email](mailto:athutran86@gmail.com)
+📫 [Portfolio](YOUR_PORTFOLIO) • [LinkedIn]((https://www.linkedin.com/in/tracythu)) • [Email](mailto:athutran86@gmail.com)
