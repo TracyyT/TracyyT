@@ -14,13 +14,4 @@ I enjoy building practical applications from idea to implementation, with a focu
 
 **Tech:** Python • C++ • Java • JavaScript • TypeScript • Rust • React • Git • Linux
 
-<h3 align="center">💻 Most Used Languages</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TracyyT&layout=compact&langs_count=8"
-    alt="Tracy's Most Used Languages"
-  />
-</p>
-
 📫 [Portfolio](https://tracyyt.github.io/personal-website/) • [LinkedIn](https://www.linkedin.com/in/tracythu) • [Email](mailto:athutran86@gmail.com)
